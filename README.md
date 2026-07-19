@@ -30,6 +30,6 @@ https://github.com/ayushsrivastava111/Portfolio
 
 ## 📧 Contact
 
-LinkedIn: Your LinkedIn URL
+LinkedIn: www.linkedin.com/in/ayush-srivastava-72174732a
 
 GitHub: https://github.com/ayushsrivastava111
